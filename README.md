@@ -1,4 +1,5 @@
 # microsoft
+
 Artificial Intelligent 
 Microsoft Artificial Intelligent
 Welcome to Microsoft Artificial Intelligence, a cutting-edge AI project aimed at advancing the capabilities of intelligent systems. This README provides an overview of the project, including key features, installation instructions, usage guidelines, and more.
@@ -25,7 +26,7 @@ Dependencies: List any dependencies or prerequisites needed for the project.
 
 Steps
 Clone the repository:
-[1:25 PM]
+
     git clone https://github.com/PavinStrickland/microsoft-ai.git
     
 
